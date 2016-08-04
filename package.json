@@ -1,0 +1,19 @@
+{
+  "name": "electron-playground",
+  "version": "1.0.0",
+  "description": "An introduction to electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbleds/electron-playground.git"
+  },
+  "author": "Benjamin Bledsoe <bledsoedesigns@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bbleds/electron-playground/issues"
+  },
+  "homepage": "https://github.com/bbleds/electron-playground#readme"
+}
